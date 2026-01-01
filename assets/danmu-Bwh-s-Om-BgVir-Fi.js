@@ -1,1 +1,0 @@
-import{a6 as a}from"./index-CXpj-iG1.js";const m=m=>a.get("/danmu",{params:m}),d=m=>a.post("/danmu",m),t=()=>a.get("/danmu/my"),n=m=>a.get("/admin/danmu",{params:m}),u=(m,d)=>a.put(`/admin/danmu/${m}/audit`,{status:d}),e=m=>a.delete(`/admin/danmu/${m}`);export{t as d,d as m,u as n,m as s,n as t,e as u};

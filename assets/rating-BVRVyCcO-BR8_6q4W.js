@@ -1,1 +1,0 @@
-import{a6 as t}from"./index-CXpj-iG1.js";const a=a=>t({url:"/ratings",method:"post",data:a}),r=a=>t({url:"/admin/ratings",method:"get",params:a}),e=a=>t({url:`/admin/ratings/${a}`,method:"delete"});export{e as r,r as s,a as t};
