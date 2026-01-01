@@ -1,1 +1,0 @@
-import{a6 as a}from"./index-MMiF18kJ.js";const s=s=>a.get("/danmu",{params:s}),m=s=>a.post("/danmu",s),d=()=>a.get("/danmu/my"),t=s=>a.get("/admin/danmu",{params:s}),n=(s,m)=>a.put(`/admin/danmu/${s}/audit`,{status:m}),u=s=>a.delete(`/admin/danmu/${s}`);export{d as a,t as b,n as c,u as d,s as g,m as s};
