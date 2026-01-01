@@ -1,0 +1,1 @@
+import{a6 as e}from"./index-D6waMthZ.js";const i=i=>e.get("/celebrities",{params:i}),s=i=>e.get(`/celebrities/${i}`),t=i=>e.post("/admin/celebrities",i),a=(i,s)=>e.put(`/admin/celebrities/${i}`,s),r=i=>e.delete(`/admin/celebrities/${i}`),l=i=>e.post(`/celebrities/${i}/like`);export{s as a,t as c,r as d,i as g,l,a as u};

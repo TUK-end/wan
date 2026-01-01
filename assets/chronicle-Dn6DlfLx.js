@@ -1,0 +1,1 @@
+import{a6 as a}from"./index-D6waMthZ.js";const e=e=>a({url:"/chronicles",method:"get",params:e}),o=e=>a({url:"/admin/chronicles",method:"post",data:e}),s=(e,o)=>a({url:`/admin/chronicles/${e}`,method:"put",data:o}),t=e=>a({url:`/admin/chronicles/${e}`,method:"delete"});export{o as c,t as d,e as g,s as u};

@@ -1,0 +1,1 @@
+import{a6 as a}from"./index-D6waMthZ.js";const t=t=>a({url:"/ratings",method:"post",data:t}),s=t=>a({url:"/admin/ratings",method:"get",params:t}),r=t=>a({url:`/admin/ratings/${t}`,method:"delete"});export{s as a,r as b,t as s};
