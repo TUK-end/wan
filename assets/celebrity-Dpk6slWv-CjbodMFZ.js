@@ -1,0 +1,1 @@
+import{a6 as e}from"./index-CXpj-iG1.js";const i=i=>e.get("/celebrities",{params:i}),t=i=>e.get(`/celebrities/${i}`),s=i=>e.post("/admin/celebrities",i),r=(i,t)=>e.put(`/admin/celebrities/${i}`,t),l=i=>e.delete(`/admin/celebrities/${i}`),a=i=>e.post(`/celebrities/${i}/like`);export{r as a,i,a as l,l as r,t as s,s as t};

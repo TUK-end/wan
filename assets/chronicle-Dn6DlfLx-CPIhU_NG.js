@@ -1,0 +1,1 @@
+import{a6 as e}from"./index-CXpj-iG1.js";const o=o=>e({url:"/chronicles",method:"get",params:o}),t=o=>e({url:"/admin/chronicles",method:"post",data:o}),r=(o,t)=>e({url:`/admin/chronicles/${o}`,method:"put",data:t}),a=o=>e({url:`/admin/chronicles/${o}`,method:"delete"});export{o as e,t as o,r as s,a as t};
